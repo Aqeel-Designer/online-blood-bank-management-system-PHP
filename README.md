@@ -92,3 +92,7 @@ The project will undergo further improvements, with planned work including:
 **Under Development**
 
 The existing application serves as the starting point for a revised and improved version of the Online Blood Bank Management System.
+
+**Note**
+
+This is an academic project developed using PHP and MySQL. It is maintained as an original project version and is not intended for production use without additional security and reliability improvements.
