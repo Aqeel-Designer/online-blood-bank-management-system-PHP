@@ -1,0 +1,43 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+config.php
+config.local.php
+
+# Database exports and backups
+*.sql
+*.sql.gz
+*.bak
+*.backup
+*.dump
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+!Documentation/database-schema.sql
