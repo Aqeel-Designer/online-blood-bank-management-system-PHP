@@ -1,11 +1,11 @@
 <?php
 
-/* This is a security code, it insures that no one can access these pages without logging in
 session_start();
+
 if (!isset($_SESSION['email'])) {
-    header("Location: ../login.php"); 
+    header("Location:../login.php");
     exit();
-}*/
+}
 
 ?>
 
