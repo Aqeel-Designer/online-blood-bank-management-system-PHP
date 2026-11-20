@@ -14,7 +14,7 @@ if (!isset($_SESSION['email'])) {
 
 <head>
 
-    <!--logout dropdown button toggle code in java-->
+    <!--logout dropdown button toggle code in javascript-->
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             const toggle = document.getElementById("dropdownToggle");
