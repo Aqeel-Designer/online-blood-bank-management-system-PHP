@@ -2,6 +2,7 @@
 
 session_start();
 
+//this is a security code, it make sure that no user can access without login
 if (!isset($_SESSION['email'])) {
     header("Location: ../login.php"); 
     exit();
